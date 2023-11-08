@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Learning Git Class
 
-This is superstory!!!.
+This is a real description!!!.
 =======
 # learning-git
 Sample github repo with Mr. Setemi
